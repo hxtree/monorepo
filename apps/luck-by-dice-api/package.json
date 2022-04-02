@@ -31,7 +31,7 @@
     "typedoc": "~0.22.13"
   },  
   "dependencies": {
-    "aws-cdk-lib": "2.15.0",
+    "aws-cdk-lib": "2.16.0",
     "constructs": "^10.0.0",
     "@types/aws-lambda": "~8.10.93",
     "@microsoft/tsdoc": "~0.13.2",
